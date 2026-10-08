@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+  - [Security Operations Monitoring Environment](https://github.com/JNJ121/security-operations-monitoring-environment)
   - [Active Directory Lab](https://github.com/JNJ121/ActiveDirectoryLab/tree/main)
   - [PythonShield-Lab](https://github.com/JNJ121/PythonShield-Lab/tree/main)
   - [Wireless Forensics Investigation](https://github.com/JNJ121/Wireless-Forensics-Investigation/blob/main/README.md)
-  - [Security Operations Monitoring Environment](https://github.com/JNJ121/security-operations-monitoring-environment)
 
 
 
